@@ -1,0 +1,63 @@
+
+body{
+    
+    background-image: url(images/Background.jpg);   
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+#header{
+    background-color: azure;
+    color: darkviolet;
+    text-align:center;
+    padding:10px;
+}
+
+#container{
+    background-color: ghostwhite;
+    color: darkviolet;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#content{
+    background-color: azure;
+    color: darkviolet;
+    padding-left: 10px;
+}
+
+#nav{
+    background-color: azure;
+    color: darkviolet;
+    width: 180px;
+    float:left;
+}
+
+#nav ul{
+    list-style-type:none;
+    padding :0;
+}
+
+#nav .selected
+{
+    font-weight: bold;
+}
+
+
+#main{
+    background-color: azure;
+    color: darkviolet;
+    width:600px;
+    float:right;
+}
+#footer{
+    clear:both;
+    padding: 10px;
+    background-color: beige;
+    color: white;
+    text-align: right;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title> Caleb's Website</title>
+    
+    
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+    
+<body>
+    
+    <h1>Digital Fabrication and prototyping fundamentals</h1>
+    <h2>Introduction</h2>
+    <img src="images/me.JPG" width="104" height="142"/>
+    <p>I am Caleb Yeow from DBEN 2A and i enjoy playing games and talking with friends, with hobbies like taekwondo and exercising.</p>
+        
+    <h3>Description</h3>
+    
+    <p>  This page is about my growth in learning in this module: "Digital Fabrication and Prototyping Fundementals". I will be documenting down what i have learned about this module, the challenges that i had faced during this learning process, as well as how i overcame them. </p>
+
+    <h3>Topics</h3>
+ 
+    <ol>
+    <li> Project Management, Web Development</li>
+    <li> Computer aided design</li>
+    <li> 3D printing</li>
+    <li> Computer controlled cutting</li>
+    <li> Embedded Programming</li>
+    <li> Module Project</li>    
+    </ol>
+    
+    <div>Copyright &copy; 2020 Caleb Yeow </div>
+
+</body>
+
+</html>
